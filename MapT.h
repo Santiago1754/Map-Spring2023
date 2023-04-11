@@ -5,7 +5,7 @@
 #ifndef MAPT_H
 #define MAPT_H
 
-#include <forward_list>
+#include <forward_list> // STL library for singly linked list
 
 using namespace std;
 
